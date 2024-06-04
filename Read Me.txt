@@ -1,0 +1,20 @@
+This project was more about data analysis where the objective and scope of the projects are:
+
+Objective:
+The objective is to forecast the number of Fistula dialysis Patients using the regression model.
+
+Scope: 
+To comprehend and handle the ESRD QIP dataset to relate the number of eligible patients by clinical measure with some of the physical diagnosis results to forecast the number of fistula dialysis patients number based on the given data.
+
+Model:
+The model is created by using linear regression and decision tree and as the final model linear was chosen since it gave a better model with less errors than decision trees. 
+
+To create the model the raw data was cleaned and selected 8 attributes for forecasting. The selected attributes are: 
+Fistula Measure Score
+Kt/V Adult Hemodialysis Measure Score
+Number of Patients Included in Fistula Measure Score Performance Period
+Number of Fistula Patient Months Performance Period
+Number of Fistula Patient Months Baseline Period
+Mineral Metabolism Reporting Score
+Fistula Performance Period Rate
+Fistula Baseline Period Rate
